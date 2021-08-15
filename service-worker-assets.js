@@ -85,7 +85,7 @@
       "url": "img\/ICANHASTOKEN.jpg"
     },
     {
-      "hash": "sha256-9q8uxGCoYIETc+wcQM481U\/1S\/RuGU7VB6Y3Gqd5im8=",
+      "hash": "sha256-ilI2yWQ6Xzb+ZXhOYqcOV7XqP5yY1lrltHmTeH00l/w=",
       "url": "index.html"
     },
     {
