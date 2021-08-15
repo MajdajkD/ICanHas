@@ -125,7 +125,7 @@
       "url": "_content\/ICH.MetaMask\/img\/metamask-logo.png"
     },
     {
-      "hash": "sha256-oJCC\/idXaLFSUTt6Ja5KRBgWn+OJCwbWHDd3MtiuCPE=",
+      "hash": "sha256-UtUqJ4oc+jwOxdp0z5DBnm+uH7kTZVkWLqqh3HUf66Y=",
       "url": "_content\/ICH.MetaMask\/NethereumMetamask.js"
     },
     {
