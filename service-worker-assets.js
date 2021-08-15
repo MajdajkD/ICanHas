@@ -425,7 +425,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-yiwTAk++3VFuqf+yA+U5vFTLG2SX+rUhlIPGliJOmis=",
+      "hash": "sha256-m4nNicjzBU0sG1SX5415wS6aPC3NS08eM+sVbzXHinE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
