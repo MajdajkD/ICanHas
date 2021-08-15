@@ -89,7 +89,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-C1Q\/JqsxXa4lE+lpcozBJbfppng2nItDapZPjXE1d2I=",
+      "hash": "sha256-kXK06Nma39QDkXNJekX9lUcE186RPZWb/FRcIRS/g7I=",
       "url": "manifest.json"
     },
     {
