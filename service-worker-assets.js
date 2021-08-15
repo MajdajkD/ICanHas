@@ -117,7 +117,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-cUOztblhuGlkjvgM72ql0e2NRuVqwW32qti8huxzYXs=",
+      "hash": "sha256-VkMY8SSKMSS7dJuXP5Vk5NNmtf6x+I6bfImyzuG6fn4=",
       "url": "_framework\/dotnet.5.0.8.js"
     },
     {
