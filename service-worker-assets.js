@@ -1025,7 +1025,7 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-Khg5fE5oTKyP6IqFswJKBY1N1Q3oyXEHrtP6RmZ0LO8=",
+      "hash": "sha256-kobQEJ1gowcdt3io06\/co8LtPUhRdWTXdTodthGRrds=",
       "url": "_framework\/ICH.Common.dll"
     },
     {
@@ -1057,7 +1057,7 @@
       "url": "_content\/ICH.MetaMask\/NethereumMetamask.js"
     },
     {
-      "hash": "sha256-DxJDS3GSLifmCnJmh47dTFpWg8+bDxzr5J9SKRV3s0U=",
+      "hash": "sha256-nHIqaK+2jqriPnBbVjMhxClX60Fu18gCmrvyI4KVfPs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1065,5 +1065,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "YHezVkcT"
+  "version": "IdeT+3rm"
 };
