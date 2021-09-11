@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-d8iYIRk4XQGusEU5\/4HDjMzQ3drQxanY03VyBIpq6tw=",
+      "hash": "sha256-LJZRWBJOTRyJ/UMG/fKTuRWYtthIhKJFzcSM7YTj/Rk=",
       "url": "app.css"
     },
     {
