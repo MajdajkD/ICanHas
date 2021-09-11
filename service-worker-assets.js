@@ -1,8 +1,20 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-dqBi7gQRJ53CypDkoAk+w2g5JoBB4RYISboWFfS6CUY=",
+      "url": "android-chrome-192x192.png"
+    },
+    {
+      "hash": "sha256-hwq7BRjzQAa148H6wpphtj0VEBGFi9l5uk1KoL4pVVc=",
+      "url": "android-chrome-512x512.png"
+    },
+    {
       "hash": "sha256-d8iYIRk4XQGusEU5\/4HDjMzQ3drQxanY03VyBIpq6tw=",
       "url": "app.css"
+    },
+    {
+      "hash": "sha256-PRW8OdiYuv4qa61kILejmY\/v22MmZ6pRSCVoPPS7GDU=",
+      "url": "apple-touch-icon.png"
     },
     {
       "hash": "sha256-fh8VA992XMpeCZiRuU4xii75UIG6KvHrbUF8yIS\/2\/4=",
@@ -49,7 +61,15 @@
       "url": "contracts\/ICHOnlyPauseERC20_flat.sol"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-xrKl3J2fpigfgCTocfyFU0mP13oJmJVKKFSZmVxq71E=",
+      "url": "favicon-16x16.png"
+    },
+    {
+      "hash": "sha256-OWw7f0xg1pmg34Q58Z2+uCoHTXIgflWjBD2TtMYGxuY=",
+      "url": "favicon-32x32.png"
+    },
+    {
+      "hash": "sha256-03SkLKA8Z8JgquWTHY5xzV51\/f4da4aeMr+333Wvty0=",
       "url": "favicon.ico"
     },
     {
@@ -129,7 +149,7 @@
       "url": "img\/ICANHASTOKEN.jpg"
     },
     {
-      "hash": "sha256-cIt6WK5TQlx9ExEutmpVO3gS2JZUXjiAi8VpW8vQNec=",
+      "hash": "sha256-x5jJRagtiJ9slfGZEMoKi0SwkgeXYR8foQ0DNS6naYQ=",
       "url": "index.html"
     },
     {
@@ -137,7 +157,11 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-FT8KZmIRejiE3ii0oJwFuzmumGlQ1cKVcNbtgvJOWJY=",
+      "hash": "sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF\/3ZPZxc1KcGBvwQ=",
+      "url": "site.webmanifest"
+    },
+    {
+      "hash": "sha256-Q2uK1Ze67wQ7kAe3TFs1moVuWJBeigYf9B21dnjZOWY=",
       "url": "_framework\/ICH.Web.dll"
     },
     {
@@ -1061,7 +1085,7 @@
       "url": "_content\/ICH.MetaMask\/NethereumMetamask.js"
     },
     {
-      "hash": "sha256-6vrlOCxGDqiNELv\/uWHOeMdbh4YoipDv0owqUofPRUg=",
+      "hash": "sha256-1dejatrlyZn77YO+xI9HFWh6Q+tzZ2nkBbLjcRdHFR4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1069,5 +1093,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "gcHpq1GJ"
+  "version": "6vo5d+m1"
 };
