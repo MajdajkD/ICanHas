@@ -149,7 +149,7 @@
       "url": "img\/ICANHASTOKEN.jpg"
     },
     {
-      "hash": "sha256-x5jJRagtiJ9slfGZEMoKi0SwkgeXYR8foQ0DNS6naYQ=",
+      "hash": "sha256-BA5PQuKrmfv3GmSWQ5OOJWSAoe+tnbUe9K+0CGE1NM8=",
       "url": "index.html"
     },
     {
@@ -1093,5 +1093,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "6vo5d+m1"
+  "version": "rO+tDdOi"
 };
