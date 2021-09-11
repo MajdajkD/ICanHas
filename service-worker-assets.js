@@ -161,7 +161,7 @@
       "url": "site.webmanifest"
     },
     {
-      "hash": "sha256-Q2uK1Ze67wQ7kAe3TFs1moVuWJBeigYf9B21dnjZOWY=",
+      "hash": "sha256-GVVPkPZ9ciylPTk+oxbPuIGoFL4qU6J0eTvYSmC+2GA=",
       "url": "_framework\/ICH.Web.dll"
     },
     {
@@ -1085,7 +1085,7 @@
       "url": "_content\/ICH.MetaMask\/NethereumMetamask.js"
     },
     {
-      "hash": "sha256-1dejatrlyZn77YO+xI9HFWh6Q+tzZ2nkBbLjcRdHFR4=",
+      "hash": "sha256-GiEFgmIaatQu2emVJFSC2ua8fOsKtykf6\/LF3JQoOdw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1093,5 +1093,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "rO+tDdOi"
+  "version": "7tEY3rm0"
 };
