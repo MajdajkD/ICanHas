@@ -53,6 +53,10 @@
       "url": "favicon.ico"
     },
     {
+      "hash": "sha256-chL6nr5\/l621daF9EZC8wMgJAjn\/XecAHDCMVDVNm6M=",
+      "url": "FileDownloader.js"
+    },
+    {
       "hash": "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=",
       "url": "fontawesome\/css\/all.min.css"
     },
@@ -125,7 +129,7 @@
       "url": "img\/ICANHASTOKEN.jpg"
     },
     {
-      "hash": "sha256-P+OQMwSq9AXQxJ7UywlwCVC3j7ncjC1mL\/3d3PIReJs=",
+      "hash": "sha256-cIt6WK5TQlx9ExEutmpVO3gS2JZUXjiAi8VpW8vQNec=",
       "url": "index.html"
     },
     {
@@ -133,7 +137,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-FlPQRlXq7pN\/IWzHb+sPdq8\/8bVJaPJoYYg7mk4AiMk=",
+      "hash": "sha256-FT8KZmIRejiE3ii0oJwFuzmumGlQ1cKVcNbtgvJOWJY=",
       "url": "_framework\/ICH.Web.dll"
     },
     {
@@ -1025,15 +1029,15 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-kobQEJ1gowcdt3io06\/co8LtPUhRdWTXdTodthGRrds=",
+      "hash": "sha256-xKjcZJIXjjfOEoTUP70SE1g1K8DSwU4VFpJHhqs4buY=",
       "url": "_framework\/ICH.Common.dll"
     },
     {
-      "hash": "sha256-0knB\/JrCOChrStzjWsx5v4HbZXDAK88DIAjBsIKVBDk=",
+      "hash": "sha256-ibbnpnxHeuYMkELBBozhbeo2eNsITPlEdWMEr39ZesQ=",
       "url": "_framework\/ICH.Logic.dll"
     },
     {
-      "hash": "sha256-Juw\/L5Y1ODDTpEZgvTshBYeT4cjWVWmWtu6No4R7Vco=",
+      "hash": "sha256-eoJw35IT7FaUHoGKwkCz\/jaceFzL23M8cyNnYJ2KcKc=",
       "url": "_framework\/ICH.MetaMask.dll"
     },
     {
@@ -1041,7 +1045,7 @@
       "url": "_framework\/ICH.Solidity.dll"
     },
     {
-      "hash": "sha256-RvLXtxLuMIL6Jg\/djPK0pAkKOV0Ske890DZ4dswXjN4=",
+      "hash": "sha256-HX4Af5eABRITNhIwURdomzAdyrlErIeaDuWk8mR8toY=",
       "url": "_framework\/ICH.Storage.dll"
     },
     {
@@ -1057,7 +1061,7 @@
       "url": "_content\/ICH.MetaMask\/NethereumMetamask.js"
     },
     {
-      "hash": "sha256-nHIqaK+2jqriPnBbVjMhxClX60Fu18gCmrvyI4KVfPs=",
+      "hash": "sha256-6vrlOCxGDqiNELv\/uWHOeMdbh4YoipDv0owqUofPRUg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1065,5 +1069,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "K2o3vBje"
+  "version": "gcHpq1GJ"
 };

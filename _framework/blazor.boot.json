@@ -7,7 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "ICH.Web.dll": "sha256-FlPQRlXq7pN\/IWzHb+sPdq8\/8bVJaPJoYYg7mk4AiMk=",
+      "ICH.Web.dll": "sha256-FT8KZmIRejiE3ii0oJwFuzmumGlQ1cKVcNbtgvJOWJY=",
       "Microsoft.CSharp.dll": "sha256-twUgoMqRCjMxtXUIYt\/QO2nXdwn36f5Nz240MccEpOQ=",
       "Microsoft.VisualBasic.Core.dll": "sha256-RUn00o3YkpuvHph4uivfeOWDNhB7YxKW6e9szvw225k=",
       "Microsoft.VisualBasic.dll": "sha256-d00J4CemA82RnoNRzqjqNhBe7cz2sznrG6N6rZZn5Wk=",
@@ -223,11 +223,11 @@
       "Newtonsoft.Json.dll": "sha256-AmjYhRYDXrZ4UeFf6lvSeHEA5V9O1qnItDSf6TPDkyk=",
       "BouncyCastle.Crypto.dll": "sha256-n7KC+76rIikEfNEJ10mSwNXh+MMbda\/f4FD9fZ8WIw4=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "ICH.Common.dll": "sha256-kobQEJ1gowcdt3io06\/co8LtPUhRdWTXdTodthGRrds=",
-      "ICH.Logic.dll": "sha256-0knB\/JrCOChrStzjWsx5v4HbZXDAK88DIAjBsIKVBDk=",
-      "ICH.MetaMask.dll": "sha256-Juw\/L5Y1ODDTpEZgvTshBYeT4cjWVWmWtu6No4R7Vco=",
+      "ICH.Common.dll": "sha256-xKjcZJIXjjfOEoTUP70SE1g1K8DSwU4VFpJHhqs4buY=",
+      "ICH.Logic.dll": "sha256-ibbnpnxHeuYMkELBBozhbeo2eNsITPlEdWMEr39ZesQ=",
+      "ICH.MetaMask.dll": "sha256-eoJw35IT7FaUHoGKwkCz\/jaceFzL23M8cyNnYJ2KcKc=",
       "ICH.Solidity.dll": "sha256-myZ00SjiVyR6HoaW38fxCvMohlRB5+8UZL2ZR+mEBNE=",
-      "ICH.Storage.dll": "sha256-RvLXtxLuMIL6Jg\/djPK0pAkKOV0Ske890DZ4dswXjN4="
+      "ICH.Storage.dll": "sha256-HX4Af5eABRITNhIwURdomzAdyrlErIeaDuWk8mR8toY="
     },
     "lazyAssembly": null,
     "pdb": null,
