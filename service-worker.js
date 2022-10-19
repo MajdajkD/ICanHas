@@ -1,6 +1,8 @@
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
+const CACHE_VERSION = 1.0
+
 self.importScripts('./service-worker-assets.js');
 self.addEventListener('install', event => event.waitUntil(onInstall(event)));
 self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
@@ -38,8 +40,8 @@ async function onFetch(event) {
     // For all navigation requests, try to serve index.html from cache
     // If you need some URLs to be server-rendered, edit the following check to exclude those URLs
     const shouldServeIndexHtml = event.request.mode === 'navigate'
-      && !event.request.url.startsWith('https://icanhaztoken.net/contracts')
-      && !event.request.url.startsWith('http://icanhaztoken.net/contracts');
+      && !event.request.url.startsWith('https://majdajkd.github.io/ICanHas/contracts')
+      && !event.request.url.startsWith('https://majdajkd.github.io/ICanHas/contracts');
 
     const request = shouldServeIndexHtml ? 'index.html' : event.request;
     const cache = await caches.open(cacheName);
